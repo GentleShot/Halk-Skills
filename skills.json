@@ -1,0 +1,488 @@
+[
+  {
+    "Book": "Affinity Added",
+    "Quest": "HC",
+    "Effect Description": "The Halk gains the ability to perform critical hits.",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Always Aggressive",
+    "Quest": "All",
+    "Effect Description": "Halk will always be aggressive",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Arena Offensive",
+    "Quest": "HR3～",
+    "Effect Description": "Attack increases while in the Arena",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Armour Drug Dust",
+    "Quest": "HC",
+    "Effect Description": "The Halk will drop Armour Drugs on the Hunter to buff their defense when needed.",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Attack Focus",
+    "Quest": "HC",
+    "Effect Description": "Halk's attack increases, but defense is lowered.",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Attack while Hunter carves",
+    "Quest": "All",
+    "Effect Description": "Halk will attack anything nearby while the hunter carves",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Attack while Hunter uses items",
+    "Quest": "All",
+    "Effect Description": "Halk will attack anything nearby while the hunter uses items",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Bird Wyvern Offense",
+    "Quest": "HR5～",
+    "Effect Description": "If the target of a quest is a Bird Wyvern, Halk attack will increase.",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Bomber",
+    "Quest": "All",
+    "Effect Description": "Halk is equipped with Barrel Bombs",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Breath Ball Attack",
+    "Quest": "HR3～",
+    "Effect Description": "Halk gains the ability to fire an elemental ball attack.",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Breath Ball Attack Focus",
+    "Quest": "HR5～",
+    "Effect Description": "Halk focuses on using the Breath Ball Attack (Does not enable the Breath Ball, actual skill must be assigned alongside this)",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Brute Wyvern Offense",
+    "Quest": "HR5～",
+    "Effect Description": "If the target of a quest is an Brute Wyern, Halk attack will increase.",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Carapaceon Offense",
+    "Quest": "HR5～",
+    "Effect Description": "If the target of a quest is a Carapaceon, Halk attack will increase.",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Charging Attack",
+    "Quest": "HC",
+    "Effect Description": "Halk will rarely do a damaging high speed attack.",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Contain Monster",
+    "Quest": "GR",
+    "Effect Description": "It becomes more difficult for monsters to escape areas. *POPULARALT*",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Danger Affection",
+    "Quest": "HC",
+    "Effect Description": "You are more likely to spawn in the area of a Large Monster. *POPULAR*",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Defense Focus",
+    "Quest": "HC",
+    "Effect Description": "Halk's defense increases, but attack is lowered.",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Demon Drug Dust",
+    "Quest": "HC",
+    "Effect Description": "The Halk will drop Demon Drugs on the Hunter to buff their attack when needed.",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Desert Offensive",
+    "Quest": "HR3～",
+    "Effect Description": "Attack increases while in the Desert",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Earplugs",
+    "Quest": "HC",
+    "Effect Description": "Halk is no longer affected by Roars",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Elder Dragon Offense",
+    "Quest": "HR5～",
+    "Effect Description": "If the target of a quest is an Elder Dragon, Halk attack will increase.",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Elemental Beam Attack",
+    "Quest": "HC",
+    "Effect Description": "The Halk gains the ability to fire an elemental beam attack.",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Elemental Bite",
+    "Quest": "HC",
+    "Effect Description": "Halk can perform an aggressive elemental bite attack.",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Empower Attack and Defense",
+    "Quest": "HC",
+    "Effect Description": "Halk will spend time charging up, increasing attack and defense.",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Fanged Beast Offense",
+    "Quest": "HR5～",
+    "Effect Description": "If the target of a quest is a Fanged Beast, Halk attack will increase.",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Fanged Wyvern Offense",
+    "Quest": "HR5～",
+    "Effect Description": "If the target of a quest is a Fanged Wyvern, Halk attack will increase.",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Fast Riser",
+    "Quest": "All",
+    "Effect Description": "Halk takes less time to recover after being knocked out.",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Flower Field Offensive",
+    "Quest": "HR5～",
+    "Effect Description": "Attack increases while in the Flower Field",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Flying Wyvern Offense",
+    "Quest": "HR5～",
+    "Effect Description": "If the target of a quest is a Flying Wyvern, Halk attack will increase.",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Focus on Claw Attack",
+    "Quest": "HR3～",
+    "Effect Description": "Halk will focus on attacking with its Claws.",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Forest and Hills Offensive",
+    "Quest": "HR3～",
+    "Effect Description": "Attack increases while in the Forest and Hills",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Gathering Affection",
+    "Quest": "HC",
+    "Effect Description": "Halk will no longer attack but will drop items instead.",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Gook Luck",
+    "Quest": "All",
+    "Effect Description": "More likely to find rare gooks during gook quests.",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Gorge Offensive",
+    "Quest": "HR3～",
+    "Effect Description": "Attack increases while in the Gorge",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Great Forest Offensive",
+    "Quest": "HR3～",
+    "Effect Description": "Attack increases while in the Great Forest",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Health Conscious",
+    "Quest": "All",
+    "Effect Description": "Halk will heal itself if damaged",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Helper [Antidote]",
+    "Quest": "All",
+    "Effect Description": "Halk will drop antidote powder on the Hunter if needed. Affects all hunters touched by powder.",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Helper [Deoderant]",
+    "Quest": "All",
+    "Effect Description": "Halk will drop deoderant on the Hunter if needed. Affects all hunters touched by powder.",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Helper [Health]",
+    "Quest": "All",
+    "Effect Description": "Halk will drop healing powder on the Hunter if needed. Affects all hunters touched by powder.",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Highlands Offensive",
+    "Quest": "HR3～",
+    "Effect Description": "Attack increases while in the Highlands",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Improve Attack",
+    "Quest": "HC",
+    "Effect Description": "Halk Attack increases",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Improve Dragon Element",
+    "Quest": "HR5～",
+    "Effect Description": "Dragon damage is increased.",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Improve Evasion",
+    "Quest": "HC",
+    "Effect Description": "The Halk will occassionally dodge attacks that would have otherwise hit it.",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Improve Fire Element",
+    "Quest": "HR5～",
+    "Effect Description": "Fire damage is increased.",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Improve Ice Element",
+    "Quest": "HR5～",
+    "Effect Description": "Ice damage is increased.",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Improve Status Attack",
+    "Quest": "HC",
+    "Effect Description": "Status damage inflicted is increased.",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Improve Thunder Element",
+    "Quest": "HR5～",
+    "Effect Description": "Thunder damage is increased.",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Improve Water Element",
+    "Quest": "HR5～",
+    "Effect Description": "Water damage is increased.",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Jungle Offensive",
+    "Quest": "HR3～",
+    "Effect Description": "Attack increases while in the Jungle",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Large Monster Priority",
+    "Quest": "All",
+    "Effect Description": "Halk will focus on Large Monsters",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Leviathan Offense",
+    "Quest": "HR5～",
+    "Effect Description": "If the target of a quest is a Leviathan, Halk attack will increase.",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Lone Offensive",
+    "Quest": "HC",
+    "Effect Description": "If there is only one party member in the area, Halk attack and defense increase.",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Long Battle",
+    "Quest": "GR",
+    "Effect Description": "Halk attack increases over time.",
+    "Aquired?": ""
+  },
+  {
+    "Book": "Mapper",
+    "Quest": "～HR2",
+    "Effect Description": "The map will always be visible regardless of having one.",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Monster Spotter",
+    "Quest": "～HR2",
+    "Effect Description": "The monster will ocassionally be marked on the map as if Psychoserum has been used.",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Monsters Near Hunter Priority",
+    "Quest": "All",
+    "Effect Description": "Halk will focus on Monster near the Hunter",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "More Pugi Appearances",
+    "Quest": "HR4～",
+    "Effect Description": "Pugis will appear more often in quests.",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Painted Falls Offensive",
+    "Quest": "GR",
+    "Effect Description": "Attack increases while in the Painted Falls",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Party Offensive",
+    "Quest": "HC",
+    "Effect Description": "If there are four party member in the area, Halk attack and defense increase.",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Piscine Offense",
+    "Quest": "HR5～",
+    "Effect Description": "If the target of a quest is a Piscine, Halk attack will increase.",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Polar Sea Offensive",
+    "Quest": "GR",
+    "Effect Description": "Attack increases while in the Polar Sea",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Rapid Breath Attack",
+    "Quest": "HC",
+    "Effect Description": "Halk gains the ability to fire a stream of elemental ball attacks.",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Rising Intent",
+    "Quest": "All",
+    "Effect Description": "When there are 2 carts the attack value of the Halk will increase",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Secret Area Affection",
+    "Quest": "HC",
+    "Effect Description": "You are more likely to spawn in the secret area if a map has one. *POPULAR*",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Signal to Stop Attacking",
+    "Quest": "All",
+    "Effect Description": "Halk will stop attacking if you use the signal function.",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Small Bomber",
+    "Quest": "HR5～",
+    "Effect Description": "Halk is equipped with Small Barrel Bombs",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Small Monster Priority",
+    "Quest": "All",
+    "Effect Description": "Halk Will focus on Small Monsters",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Smash Attack",
+    "Quest": "HC",
+    "Effect Description": "Halk gains the ability to do a spiralling rush attack.",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Snowy Mountains Offensive",
+    "Quest": "HR3～",
+    "Effect Description": "Attack increases while in the Snowy Mountains",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Summer Assault",
+    "Quest": "GR",
+    "Effect Description": "Halk's Attack and Defense increase while in Hot Areas.",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Supporter",
+    "Quest": "HC",
+    "Effect Description": "Halk attempts to break hunter out of any statuses such as Snowman or Crystallisation",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Swamp Offensive",
+    "Quest": "HR3～",
+    "Effect Description": "Attack increases while in the Swamp",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Swift Battle",
+    "Quest": "GR",
+    "Effect Description": "Halk's attack power increases, but decreases as quest time passes.",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Tidal Island Offensive",
+    "Quest": "HR3～",
+    "Effect Description": "Attack increases while in the Tidal Island",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Tower Offensive",
+    "Quest": "HR3～",
+    "Effect Description": "Attack increases while in the Tower",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Unescapable",
+    "Quest": "All",
+    "Effect Description": "Halk will relentlessly attack targets ignoring anything else for a brief time period",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Unflinching",
+    "Quest": "All",
+    "Effect Description": "Halk is less likely to be knocked out of the sky when taking damage",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Volcano Offensive",
+    "Quest": "HR3～",
+    "Effect Description": "Attack increases while in the Volcano",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "White Lake Offensive",
+    "Quest": "HR5～",
+    "Effect Description": "Attack increases while in the White Lake",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Wind Pressure",
+    "Quest": "HC",
+    "Effect Description": "Halk is no longer affected by Wind Pressure",
+    "Aquired?": "FALSE"
+  },
+  {
+    "Book": "Winter Assault",
+    "Quest": "GR",
+    "Effect Description": "Halk's Attack and Defense increase while in Cold Areas.",
+    "Aquired?": "FALSE"
+  }
+]

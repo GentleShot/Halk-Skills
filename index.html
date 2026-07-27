@@ -1,9 +1,124 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
-    <title>My GitHub Website</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Halk Skills Checklist</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background: #f4f6fb;
+        color: #222;
+        margin: 0;
+        padding: 2rem;
+      }
+
+      .card {
+        max-width: 900px;
+        margin: 0 auto;
+        background: white;
+        border-radius: 12px;
+        padding: 1.5rem;
+        box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+      }
+
+      h1 {
+        margin-top: 0;
+      }
+
+      #skill-list {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+      }
+
+      #skill-list li {
+        display: flex;
+        gap: 0.75rem;
+        align-items: flex-start;
+        padding: 0.8rem 0;
+        border-bottom: 1px solid #eee;
+      }
+
+      #skill-list li:last-child {
+        border-bottom: none;
+      }
+
+      #skill-list li.checked .item-text {
+        text-decoration: line-through;
+        color: #777;
+      }
+
+      input[type="checkbox"] {
+        margin-top: 0.3rem;
+        width: 1rem;
+        height: 1rem;
+      }
+
+      .item-text strong {
+        display: block;
+        margin-bottom: 0.25rem;
+      }
+
+      .meta {
+        font-size: 0.95rem;
+        color: #666;
+      }
+    </style>
   </head>
   <body>
-    <h1>Hello, World!</h1>
+    <div class="card">
+      <h1>Halk Skills Checklist</h1>
+      <p>These items are loaded from the JSON file and can be checked off.</p>
+      <ul id="skill-list">
+        <li>Loading skills...</li>
+      </ul>
+    </div>
+
+    <script>
+      const skillList = document.getElementById("skill-list");
+
+      function renderSkills(skills) {
+        skillList.innerHTML = "";
+
+        skills.forEach((skill, index) => {
+          const isChecked = String(skill["Aquired?"]).toUpperCase() === "TRUE";
+          const item = document.createElement("li");
+          item.className = isChecked ? "checked" : "";
+
+          item.innerHTML = `
+            <input type="checkbox" id="skill-${index}" ${isChecked ? "checked" : ""}>
+            <label class="item-text" for="skill-${index}">
+              <strong>${skill.Book}</strong>
+              <div class="meta">Quest: ${skill.Quest} • ${skill["Effect Description"]}</div>
+            </label>
+          `;
+
+          const checkbox = item.querySelector("input");
+          checkbox.addEventListener("change", (event) => {
+            item.classList.toggle("checked", event.target.checked);
+          });
+
+          skillList.appendChild(item);
+        });
+      }
+
+      async function loadSkills() {
+        try {
+          const response = await fetch("./skills.json");
+          if (!response.ok) {
+            throw new Error("Failed to load skills.json");
+          }
+
+          const skills = await response.json();
+          renderSkills(skills);
+        } catch (error) {
+          skillList.innerHTML = "<li>Unable to load the checklist. Make sure the page is being served from a local server.</li>";
+          console.error(error);
+        }
+      }
+
+      loadSkills();
+    </script>
   </body>
 </html>
