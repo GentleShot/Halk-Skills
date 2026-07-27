@@ -149,7 +149,7 @@
           if (selectedQuest === "Unfiltered") {
             return true;
           }
-          return skill.Quest === selectedQuest || skill.Quest === "All";
+          return skill.Quest === selectedQuest;
         });
 
         if (visibleSkills.length === 0) {
