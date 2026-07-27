@@ -65,12 +65,34 @@
         color: #666;
       }
 
+      .header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        gap: 1rem;
+        margin-bottom: 1rem;
+      }
+
       .toolbar {
         display: flex;
         gap: 0.75rem;
         align-items: center;
         margin-bottom: 1rem;
         flex-wrap: wrap;
+      }
+
+      .lang-switcher {
+        display: inline-block;
+        padding: 0.5rem 0.75rem;
+        border-radius: 6px;
+        background: #2f6fed;
+        color: white;
+        text-decoration: none;
+        font-size: 0.95rem;
+      }
+
+      .lang-switcher:hover {
+        background: #2558c7;
       }
 
       select,
@@ -95,7 +117,10 @@
   </head>
   <body>
     <div class="card">
-      <h1>Halk Skills Checklist</h1>
+      <div class="header">
+        <h1>Halk Skills Checklist</h1>
+        <a class="lang-switcher" href="index-es.html">Español</a>
+      </div>
       <div class="toolbar">
         <label for="quest-filter">Filter by Quest:</label>
         <select id="quest-filter">
