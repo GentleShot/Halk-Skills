@@ -26,13 +26,13 @@
     }
   },
   {
-    "Book": "Arena Offensive",
+    "Book": "Arena Attack",
     "Quest": "HR3～",
     "Effect Description": "Attack increases while in the Arena",
     "Aquired?": "FALSE",
     "translations": {
       "es": {
-        "Book": "Ofensiva de arena",
+        "Book": "Ataque en la arena",
         "Quest": "HR3～",
         "Effect Description": "El ataque aumenta mientras está en la arena."
       }
@@ -65,26 +65,26 @@
     }
   },
   {
-    "Book": "Attack while Hunter carves",
+    "Book": "Carving Defender",
     "Quest": "All",
     "Effect Description": "Halk will attack anything nearby while the hunter carves",
     "Aquired?": "FALSE",
     "translations": {
       "es": {
-        "Book": "Ataque mientras el cazador corta",
+        "Book": "Defensor del Carving",
         "Quest": "Todos",
         "Effect Description": "El Halk atacará a todo lo cercano mientras el cazador corta."
       }
     }
   },
   {
-    "Book": "Attack while Hunter uses items",
+    "Book": "Item Defender",
     "Quest": "All",
     "Effect Description": "Halk will attack anything nearby while the hunter uses items",
     "Aquired?": "FALSE",
     "translations": {
       "es": {
-        "Book": "Ataque mientras el cazador usa objetos",
+        "Book": "Defensor de objetos",
         "Quest": "Todos",
         "Effect Description": "El Halk atacará a todo lo cercano mientras el cazador usa objetos."
       }
@@ -130,13 +130,13 @@
     }
   },
   {
-    "Book": "Breath Ball Attack Focus",
+    "Book": "Breath Ball Support",
     "Quest": "HR5～",
     "Effect Description": "Halk focuses on using the Breath Ball Attack (Does not enable the Breath Ball, actual skill must be assigned alongside this)",
     "Aquired?": "FALSE",
     "translations": {
       "es": {
-        "Book": "Enfoque de ataque con bola de aliento",
+        "Book": "Soporte de bola de respiración",
         "Quest": "HR5～",
         "Effect Description": "Halk se enfoca en usar el ataque con bola de aliento (no activa la bola de aliento; la habilidad real debe asignarse junto con esta)."
       }
@@ -234,13 +234,13 @@
     }
   },
   {
-    "Book": "Desert Offensive",
+    "Book": "Desert Attack",
     "Quest": "HR3～",
     "Effect Description": "Attack increases while in the Desert",
     "Aquired?": "FALSE",
     "translations": {
       "es": {
-        "Book": "Ofensiva del desierto",
+        "Book": "Ataque en el desierto",
         "Quest": "HR3～",
         "Effect Description": "El ataque aumenta mientras estás en el desierto."
       }
@@ -299,7 +299,7 @@
     }
   },
   {
-    "Book": "Empower Attack and Defense",
+    "Book": "Empower Attack and Def",
     "Quest": "HC",
     "Effect Description": "Halk will spend time charging up, increasing attack and defense.",
     "Aquired?": "FALSE",
@@ -312,13 +312,13 @@
     }
   },
   {
-    "Book": "Fanged Beast Offense",
+    "Book": "Pelagus Offense",
     "Quest": "HR5～",
     "Effect Description": "If the target of a quest is a Fanged Beast, Halk attack will increase.",
     "Aquired?": "FALSE",
     "translations": {
       "es": {
-        "Book": "Ofensiva contra bestia de colmillos",
+        "Book": "Ofensiva contra pelago de colmillos",
         "Quest": "HR5～",
         "Effect Description": "Si el objetivo de la misión es una bestia de colmillos, el ataque de Halk aumentará."
       }
@@ -351,13 +351,13 @@
     }
   },
   {
-    "Book": "Flower Field Offensive",
+    "Book": "Flower Field Attack",
     "Quest": "HR5～",
     "Effect Description": "Attack increases while in the Flower Field",
     "Aquired?": "FALSE",
     "translations": {
       "es": {
-        "Book": "Ofensiva del campo de flores",
+        "Book": "Ataque en el campo de flores",
         "Quest": "HR5～",
         "Effect Description": "El ataque aumenta mientras estás en el campo de flores."
       }
@@ -377,26 +377,26 @@
     }
   },
   {
-    "Book": "Focus on Claw Attack",
+    "Book": "Claw Attack Focus",
     "Quest": "HR3～",
     "Effect Description": "Halk will focus on attacking with its Claws.",
     "Aquired?": "FALSE",
     "translations": {
       "es": {
-        "Book": "Enfoque en el ataque con garras",
+        "Book": "Enfoque en ataque de garras",
         "Quest": "HR3～",
         "Effect Description": "Halk se enfocará en atacar con sus garras."
       }
     }
   },
   {
-    "Book": "Forest and Hills Offensive",
+    "Book": "Forest and Hills Attack",
     "Quest": "HR3～",
     "Effect Description": "Attack increases while in the Forest and Hills",
     "Aquired?": "FALSE",
     "translations": {
       "es": {
-        "Book": "Ofensiva de bosque y colinas",
+        "Book": "Ataque en el bosque y las colinas",
         "Quest": "HR3～",
         "Effect Description": "El ataque aumenta mientras estás en el bosque y las colinas."
       }
@@ -416,39 +416,39 @@
     }
   },
   {
-    "Book": "Gook Luck",
+    "Book": "Goocoo Luck",
     "Quest": "All",
-    "Effect Description": "More likely to find rare gooks during gook quests.",
+    "Effect Description": "More likely to find rare Goocoo during gook quests.",
     "Aquired?": "FALSE",
     "translations": {
       "es": {
-        "Book": "Suerte de gook",
+        "Book": "Suerte de Goocoo",
         "Quest": "Todos",
-        "Effect Description": "Es más probable encontrar gooks raros durante misiones de gook."
+        "Effect Description": "Es más probable encontrar Goocoo raros durante misiones de gook."
       }
     }
   },
   {
-    "Book": "Gorge Offensive",
+    "Book": "Gorge Attack",
     "Quest": "HR3～",
     "Effect Description": "Attack increases while in the Gorge",
     "Aquired?": "FALSE",
     "translations": {
       "es": {
-        "Book": "Ofensiva del cañón",
+        "Book": "Ataque en el desfiladero",
         "Quest": "HR3～",
         "Effect Description": "El ataque aumenta mientras estás en el cañón."
       }
     }
   },
   {
-    "Book": "Great Forest Offensive",
+    "Book": "Great Forest Attack",
     "Quest": "HR3～",
     "Effect Description": "Attack increases while in the Great Forest",
     "Aquired?": "FALSE",
     "translations": {
       "es": {
-        "Book": "Ofensiva del gran bosque",
+        "Book": "Ataque en el gran bosque",
         "Quest": "HR3～",
         "Effect Description": "El ataque aumenta mientras estás en el gran bosque."
       }
@@ -507,13 +507,13 @@
     }
   },
   {
-    "Book": "Highlands Offensive",
+    "Book": "Highlands Attack",
     "Quest": "HR3～",
     "Effect Description": "Attack increases while in the Highlands",
     "Aquired?": "FALSE",
     "translations": {
       "es": {
-        "Book": "Ofensiva de las tierras altas",
+        "Book": "Ataque de las Tierras Altas",
         "Quest": "HR3～",
         "Effect Description": "El ataque aumenta mientras estás en las tierras altas."
       }
@@ -624,13 +624,13 @@
     }
   },
   {
-    "Book": "Jungle Offensive",
+    "Book": "Jungle Attack",
     "Quest": "HR3～",
     "Effect Description": "Attack increases while in the Jungle",
     "Aquired?": "FALSE",
     "translations": {
       "es": {
-        "Book": "Ofensiva de la selva",
+        "Book": "Ataque en la selva",
         "Quest": "HR3～",
         "Effect Description": "El ataque aumenta mientras estás en la selva."
       }
@@ -663,13 +663,13 @@
     }
   },
   {
-    "Book": "Lone Offensive",
+    "Book": "Lone Attack",
     "Quest": "HC",
     "Effect Description": "If there is only one party member in the area, Halk attack and defense increase.",
     "Aquired?": "FALSE",
     "translations": {
       "es": {
-        "Book": "Ofensiva en solitario",
+        "Book": "Ataque en solitario",
         "Quest": "HC",
         "Effect Description": "Si solo hay un miembro del grupo en el área, el ataque y la defensa de Halk aumentan."
       }
@@ -715,52 +715,52 @@
     }
   },
   {
-    "Book": "Monsters Near Hunter Priority",
+    "Book": "Near Hunter Priority",
     "Quest": "All",
     "Effect Description": "Halk will focus on Monster near the Hunter",
     "Aquired?": "FALSE",
     "translations": {
       "es": {
-        "Book": "Prioridad a monstruos cerca del cazador",
+        "Book": "Cerca de Hunter Priority",
         "Quest": "Todos",
         "Effect Description": "Halk se enfocará en los monstruos cerca del cazador."
       }
     }
   },
   {
-    "Book": "More Pugi Appearances",
+    "Book": "More Poogie Appearances",
     "Quest": "HR4～",
-    "Effect Description": "Pugis will appear more often in quests.",
+    "Effect Description": "Poogie will appear more often in quests.",
     "Aquired?": "FALSE",
     "translations": {
       "es": {
-        "Book": "Más apariciones de pugi",
+        "Book": "Más apariciones de Poogie",
         "Quest": "HR4～",
-        "Effect Description": "Los pugis aparecerán con más frecuencia en las misiones."
+        "Effect Description": "Los poogie aparecerán con más frecuencia en las misiones."
       }
     }
   },
   {
-    "Book": "Painted Falls Offensive",
+    "Book": "Painted Falls Attack",
     "Quest": "GR",
     "Effect Description": "Attack increases while in the Painted Falls",
     "Aquired?": "FALSE",
     "translations": {
       "es": {
-        "Book": "Ofensiva de las cascadas pintadas",
+        "Book": "Ataque de Painted Falls",
         "Quest": "GR",
         "Effect Description": "El ataque aumenta mientras estás en las cascadas pintadas."
       }
     }
   },
   {
-    "Book": "Party Offensive",
+    "Book": "Party Attack",
     "Quest": "HC",
     "Effect Description": "If there are four party member in the area, Halk attack and defense increase.",
     "Aquired?": "FALSE",
     "translations": {
       "es": {
-        "Book": "Ofensiva de grupo",
+        "Book": "Ataque en grupo",
         "Quest": "HC",
         "Effect Description": "Si hay cuatro miembros del grupo en el área, el ataque y la defensa de Halk aumentan."
       }
@@ -780,13 +780,13 @@
     }
   },
   {
-    "Book": "Polar Sea Offensive",
+    "Book": "Polar Sea Attack",
     "Quest": "GR",
     "Effect Description": "Attack increases while in the Polar Sea",
     "Aquired?": "FALSE",
     "translations": {
       "es": {
-        "Book": "Ofensiva del mar polar",
+        "Book": "Ataque en el mar polar",
         "Quest": "GR",
         "Effect Description": "El ataque aumenta mientras estás en el mar polar."
       }
@@ -832,13 +832,13 @@
     }
   },
   {
-    "Book": "Signal to Stop Attacking",
+    "Book": "Signal to Halt Attacks",
     "Quest": "All",
     "Effect Description": "Halk will stop attacking if you use the signal function.",
     "Aquired?": "FALSE",
     "translations": {
       "es": {
-        "Book": "Señal para detener el ataque",
+        "Book": "Señal para detener los ataques",
         "Quest": "Todos",
         "Effect Description": "Halk dejará de atacar si usas la función de señal."
       }
@@ -884,13 +884,13 @@
     }
   },
   {
-    "Book": "Snowy Mountains Offensive",
+    "Book": "Snowy Mountains Attack",
     "Quest": "HR3～",
     "Effect Description": "Attack increases while in the Snowy Mountains",
     "Aquired?": "FALSE",
     "translations": {
       "es": {
-        "Book": "Ofensiva de las montañas nevadas",
+        "Book": "Ataque en las montañas nevadas",
         "Quest": "HR3～",
         "Effect Description": "El ataque aumenta mientras estás en las montañas nevadas."
       }
@@ -923,13 +923,13 @@
     }
   },
   {
-    "Book": "Swamp Offensive",
+    "Book": "Swamp Attack",
     "Quest": "HR3～",
     "Effect Description": "Attack increases while in the Swamp",
     "Aquired?": "FALSE",
     "translations": {
       "es": {
-        "Book": "Ofensiva del pantano",
+        "Book": "Ataque de pantano",
         "Quest": "HR3～",
         "Effect Description": "El ataque aumenta mientras estás en el pantano."
       }
@@ -949,26 +949,26 @@
     }
   },
   {
-    "Book": "Tidal Island Offensive",
+    "Book": "Tidal Island Attack",
     "Quest": "HR3～",
     "Effect Description": "Attack increases while in the Tidal Island",
     "Aquired?": "FALSE",
     "translations": {
       "es": {
-        "Book": "Ofensiva de la isla de mareas",
+        "Book": "Ataque a la isla de marea",
         "Quest": "HR3～",
         "Effect Description": "El ataque aumenta mientras estás en la isla de mareas."
       }
     }
   },
   {
-    "Book": "Tower Offensive",
+    "Book": "Tower Attack",
     "Quest": "HR3～",
     "Effect Description": "Attack increases while in the Tower",
     "Aquired?": "FALSE",
     "translations": {
       "es": {
-        "Book": "Ofensiva de la torre",
+        "Book": "Ataque a la torre",
         "Quest": "HR3～",
         "Effect Description": "El ataque aumenta mientras estás en la torre."
       }
@@ -1001,26 +1001,26 @@
     }
   },
   {
-    "Book": "Volcano Offensive",
+    "Book": "Volcano Attack",
     "Quest": "HR3～",
     "Effect Description": "Attack increases while in the Volcano",
     "Aquired?": "FALSE",
     "translations": {
       "es": {
-        "Book": "Ofensiva del volcán",
+        "Book": "Ataque del volcán",
         "Quest": "HR3～",
         "Effect Description": "El ataque aumenta mientras estás en el volcán."
       }
     }
   },
   {
-    "Book": "White Lake Offensive",
+    "Book": "White Lake Attack",
     "Quest": "HR5～",
     "Effect Description": "Attack increases while in the White Lake",
     "Aquired?": "FALSE",
     "translations": {
       "es": {
-        "Book": "Ofensiva del lago blanco",
+        "Book": "Ataque en White Lake",
         "Quest": "HR5～",
         "Effect Description": "El ataque aumenta mientras estás en el lago blanco."
       }
