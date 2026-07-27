@@ -64,11 +64,45 @@
         font-size: 0.95rem;
         color: #666;
       }
+
+      .toolbar {
+        display: flex;
+        gap: 0.75rem;
+        align-items: center;
+        margin-bottom: 1rem;
+        flex-wrap: wrap;
+      }
+
+      select,
+      button {
+        padding: 0.5rem 0.75rem;
+        border-radius: 6px;
+        border: 1px solid #ccc;
+        font-size: 0.95rem;
+      }
+
+      button {
+        cursor: pointer;
+        background: #2f6fed;
+        color: white;
+        border: none;
+      }
+
+      button:hover {
+        background: #2558c7;
+      }
     </style>
   </head>
   <body>
     <div class="card">
       <h1>Halk Skills Checklist</h1>
+      <div class="toolbar">
+        <label for="quest-filter">Filter by Quest:</label>
+        <select id="quest-filter">
+          <option value="all">All</option>
+        </select>
+        <button id="clear-checked" type="button">Clear Checked</button>
+      </div>
       <ul id="skill-list">
         <li>Loading skills...</li>
       </ul>
@@ -76,7 +110,10 @@
 
     <script>
       const skillList = document.getElementById("skill-list");
+      const questFilter = document.getElementById("quest-filter");
+      const clearCheckedButton = document.getElementById("clear-checked");
       const storageKey = "halk-skill-checks";
+      let allSkills = [];
 
       function getSavedChecks() {
         const saved = localStorage.getItem(storageKey);
@@ -87,11 +124,38 @@
         localStorage.setItem(storageKey, JSON.stringify(checks));
       }
 
+      function populateQuestFilter(skills) {
+        const quests = [...new Set(skills.map((skill) => skill.Quest).filter(Boolean))].sort();
+        const currentValue = questFilter.value;
+        questFilter.innerHTML = '<option value="all">All</option>';
+
+        quests.forEach((quest) => {
+          const option = document.createElement("option");
+          option.value = quest;
+          option.textContent = quest;
+          if (quest === currentValue) {
+            option.selected = true;
+          }
+          questFilter.appendChild(option);
+        });
+      }
+
       function renderSkills(skills) {
         const savedChecks = getSavedChecks();
+        const selectedQuest = questFilter.value;
         skillList.innerHTML = "";
 
-        skills.forEach((skill, index) => {
+        const visibleSkills = skills.filter((skill) => {
+          return selectedQuest === "all" || skill.Quest === selectedQuest;
+        });
+
+        if (visibleSkills.length === 0) {
+          skillList.innerHTML = "<li>No skills match this filter.</li>";
+          return;
+        }
+
+        visibleSkills.forEach((skill, originalIndex) => {
+          const index = skills.indexOf(skill);
           const isChecked = Boolean(savedChecks[index]) || String(skill["Aquired?"]).toUpperCase() === "TRUE";
           const item = document.createElement("li");
           item.className = isChecked ? "checked" : "";
@@ -116,6 +180,19 @@
         });
       }
 
+      questFilter.addEventListener("change", () => {
+        renderSkills(allSkills);
+      });
+
+      clearCheckedButton.addEventListener("click", () => {
+        const checks = getSavedChecks();
+        Object.keys(checks).forEach((key) => {
+          checks[key] = false;
+        });
+        saveChecks(checks);
+        renderSkills(allSkills);
+      });
+
       async function loadSkills() {
         try {
           const response = await fetch("./skills.json");
@@ -123,8 +200,9 @@
             throw new Error("Failed to load skills.json");
           }
 
-          const skills = await response.json();
-          renderSkills(skills);
+          allSkills = await response.json();
+          populateQuestFilter(allSkills);
+          renderSkills(allSkills);
         } catch (error) {
           skillList.innerHTML = "<li>Unable to load the checklist. Make sure the page is being served from a local server.</li>";
           console.error(error);
