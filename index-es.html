@@ -150,7 +150,7 @@
       }
 
       function populateQuestFilter(skills) {
-        const quests = [...new Set(skills.map((skill) => skill.Quest).filter(Boolean))].sort();
+        const quests = [...new Set(skills.map((skill) => skill.Quest).filter((quest) => quest && quest !== "All"))].sort();
         const currentValue = questFilter.value;
         questFilter.innerHTML = '<option value="all">Mostrar todo</option>';
 
@@ -184,15 +184,15 @@
 
         visibleSkills.forEach((skill, originalIndex) => {
           const index = skills.indexOf(skill);
-          const isChecked = Boolean(savedChecks[index]) || String(skill["Aquired?"]).toUpperCase() === "TRUE";
+          const isChecked = Boolean(savedChecks[index]) || String(skill["Aquired?"] ?? "").toUpperCase() === "TRUE";
           const item = document.createElement("li");
           item.className = isChecked ? "checked" : "";
 
           item.innerHTML = `
             <input type="checkbox" id="skill-${index}" ${isChecked ? "checked" : ""}>
             <label class="item-text" for="skill-${index}">
-              <strong>${skill.Book}</strong>
-              <div class="meta">Misión: ${skill.Quest} • ${skill["Effect Description"]}</div>
+              <strong>${skill.translations?.es?.Book || skill.Book}</strong>
+              <div class="meta">Misión: ${skill.translations?.es?.Quest || skill.Quest} • ${skill.translations?.es?.["Effect Description"] || skill["Effect Description"]}</div>
             </label>
           `;
 

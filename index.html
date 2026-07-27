@@ -150,7 +150,7 @@
       }
 
       function populateQuestFilter(skills) {
-        const quests = [...new Set(skills.map((skill) => skill.Quest).filter(Boolean))].sort();
+        const quests = [...new Set(skills.map((skill) => skill.Quest).filter((quest) => quest && quest !== "All"))].sort();
         const currentValue = questFilter.value;
         questFilter.innerHTML = '<option value="all">Show All</option>';
 
@@ -171,10 +171,10 @@
         skillList.innerHTML = "";
 
         const visibleSkills = skills.filter((skill) => {
-          if (selectedQuest === "Unfiltered") {
+          if (selectedQuest === "all") {
             return true;
           }
-          return skill.Quest === selectedQuest;
+          return skill.Quest === selectedQuest || skill.Quest === "All";
         });
 
         if (visibleSkills.length === 0) {

@@ -3,103 +3,222 @@
     "Book": "Affinity Added",
     "Quest": "HC",
     "Effect Description": "The Halk gains the ability to perform critical hits.",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Afinidad añadida",
+        "Quest": "HC",
+        "Effect Description": "El Halk obtiene la capacidad de realizar golpes críticos."
+      }
+    }
   },
   {
     "Book": "Always Aggressive",
     "Quest": "All",
     "Effect Description": "Halk will always be aggressive",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Siempre agresivo",
+        "Quest": "Todos",
+        "Effect Description": "El Halk siempre será agresivo."
+      }
+    }
   },
   {
     "Book": "Arena Offensive",
     "Quest": "HR3～",
     "Effect Description": "Attack increases while in the Arena",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Ofensiva de arena",
+        "Quest": "HR3～",
+        "Effect Description": "El ataque aumenta mientras está en la arena."
+      }
+    }
   },
   {
     "Book": "Armour Drug Dust",
     "Quest": "HC",
     "Effect Description": "The Halk will drop Armour Drugs on the Hunter to buff their defense when needed.",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Polvo de droga de armadura",
+        "Quest": "HC",
+        "Effect Description": "El Halk dejará caer drogas de armadura sobre el cazador para aumentar su defensa cuando sea necesario."
+      }
+    }
   },
   {
     "Book": "Attack Focus",
     "Quest": "HC",
     "Effect Description": "Halk's attack increases, but defense is lowered.",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Enfoque de ataque",
+        "Quest": "HC",
+        "Effect Description": "El ataque de Halk aumenta, pero la defensa disminuye."
+      }
+    }
   },
   {
     "Book": "Attack while Hunter carves",
     "Quest": "All",
     "Effect Description": "Halk will attack anything nearby while the hunter carves",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Ataque mientras el cazador corta",
+        "Quest": "Todos",
+        "Effect Description": "El Halk atacará a todo lo cercano mientras el cazador corta."
+      }
+    }
   },
   {
     "Book": "Attack while Hunter uses items",
     "Quest": "All",
     "Effect Description": "Halk will attack anything nearby while the hunter uses items",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Ataque mientras el cazador usa objetos",
+        "Quest": "Todos",
+        "Effect Description": "El Halk atacará a todo lo cercano mientras el cazador usa objetos."
+      }
+    }
   },
   {
     "Book": "Bird Wyvern Offense",
     "Quest": "HR5～",
     "Effect Description": "If the target of a quest is a Bird Wyvern, Halk attack will increase.",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Ofensiva contra wyverns de aves",
+        "Quest": "HR5～",
+        "Effect Description": "Si el objetivo de la misión es un wyvern de ave, el ataque de Halk aumentará."
+      }
+    }
   },
   {
     "Book": "Bomber",
     "Quest": "All",
     "Effect Description": "Halk is equipped with Barrel Bombs",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Bombardero",
+        "Quest": "Todos",
+        "Effect Description": "El Halk está equipado con bombas de barril."
+      }
+    }
   },
   {
     "Book": "Breath Ball Attack",
     "Quest": "HR3～",
     "Effect Description": "Halk gains the ability to fire an elemental ball attack.",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Ataque con bola de aliento",
+        "Quest": "HR3～",
+        "Effect Description": "El Halk obtiene la capacidad de lanzar un ataque con bola elemental."
+      }
+    }
   },
   {
     "Book": "Breath Ball Attack Focus",
     "Quest": "HR5～",
     "Effect Description": "Halk focuses on using the Breath Ball Attack (Does not enable the Breath Ball, actual skill must be assigned alongside this)",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Enfoque de ataque con bola de aliento",
+        "Quest": "HR5～",
+        "Effect Description": "Halk se enfoca en usar el ataque con bola de aliento (no activa la bola de aliento; la habilidad real debe asignarse junto con esta)."
+      }
+    }
   },
   {
     "Book": "Brute Wyvern Offense",
     "Quest": "HR5～",
     "Effect Description": "If the target of a quest is an Brute Wyern, Halk attack will increase.",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Ofensiva contra wyverns brutales",
+        "Quest": "HR5～",
+        "Effect Description": "Si el objetivo de la misión es un wyvern brutal, el ataque de Halk aumentará."
+      }
+    }
   },
   {
     "Book": "Carapaceon Offense",
     "Quest": "HR5～",
     "Effect Description": "If the target of a quest is a Carapaceon, Halk attack will increase.",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Ofensiva contra carapaceones",
+        "Quest": "HR5～",
+        "Effect Description": "Si el objetivo de la misión es un carapaceón, el ataque de Halk aumentará."
+      }
+    }
   },
   {
     "Book": "Charging Attack",
     "Quest": "HC",
     "Effect Description": "Halk will rarely do a damaging high speed attack.",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Ataque de carga",
+        "Quest": "HC",
+        "Effect Description": "Halk rara vez realizará un ataque dañino de alta velocidad."
+      }
+    }
   },
   {
     "Book": "Contain Monster",
     "Quest": "GR",
     "Effect Description": "It becomes more difficult for monsters to escape areas. *POPULARALT*",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Contener monstruo",
+        "Quest": "GR",
+        "Effect Description": "Se vuelve más difícil que los monstruos escapen de las áreas. *POPULARALT*."
+      }
+    }
   },
   {
     "Book": "Danger Affection",
     "Quest": "HC",
     "Effect Description": "You are more likely to spawn in the area of a Large Monster. *POPULAR*",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Afecto de peligro",
+        "Quest": "HC",
+        "Effect Description": "Es más probable que aparezcas en el área de un gran monstruo. *POPULAR*."
+      }
+    }
   },
   {
     "Book": "Defense Focus",
     "Quest": "HC",
     "Effect Description": "Halk's defense increases, but attack is lowered.",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Enfoque de defensa",
+        "Quest": "HC",
+        "Effect Description": "La defensa de Halk aumenta, pero el ataque disminuye."
+      }
+    }
   },
   {
     "Book": "Demon Drug Dust",
