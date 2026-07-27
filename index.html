@@ -47,6 +47,7 @@
       #skill-list li.checked .item-text {
         text-decoration: line-through;
         color: #777;
+        background: rgb(45, 247, 45);
       }
 
       input[type="checkbox"] {
@@ -146,7 +147,7 @@
         skillList.innerHTML = "";
 
         const visibleSkills = skills.filter((skill) => {
-          if (selectedQuest === "all") {
+          if (selectedQuest === "Unfiltered") {
             return true;
           }
           return skill.Quest === selectedQuest || skill.Quest === "All";
