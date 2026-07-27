@@ -99,7 +99,7 @@
       <div class="toolbar">
         <label for="quest-filter">Filter by Quest:</label>
         <select id="quest-filter">
-          <option value="all">All</option>
+          <option value="all">Show All</option>
         </select>
         <button id="clear-checked" type="button">Clear Checked</button>
       </div>
@@ -146,7 +146,10 @@
         skillList.innerHTML = "";
 
         const visibleSkills = skills.filter((skill) => {
-          return selectedQuest === "all" || skill.Quest === selectedQuest;
+          if (selectedQuest === "all") {
+            return true;
+          }
+          return skill.Quest === selectedQuest || skill.Quest === "All";
         });
 
         if (visibleSkills.length === 0) {
