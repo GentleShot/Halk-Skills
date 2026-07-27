@@ -224,384 +224,832 @@
     "Book": "Demon Drug Dust",
     "Quest": "HC",
     "Effect Description": "The Halk will drop Demon Drugs on the Hunter to buff their attack when needed.",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Polvo de droga demoníaca",
+        "Quest": "HC",
+        "Effect Description": "El Halk dejará caer drogas demoníacas sobre el cazador para aumentar su ataque cuando sea necesario."
+      }
+    }
   },
   {
     "Book": "Desert Offensive",
     "Quest": "HR3～",
     "Effect Description": "Attack increases while in the Desert",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Ofensiva del desierto",
+        "Quest": "HR3～",
+        "Effect Description": "El ataque aumenta mientras estás en el desierto."
+      }
+    }
   },
   {
     "Book": "Earplugs",
     "Quest": "HC",
     "Effect Description": "Halk is no longer affected by Roars",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Tapones para los oídos",
+        "Quest": "HC",
+        "Effect Description": "El Halk ya no se ve afectado por los rugidos."
+      }
+    }
   },
   {
     "Book": "Elder Dragon Offense",
     "Quest": "HR5～",
     "Effect Description": "If the target of a quest is an Elder Dragon, Halk attack will increase.",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Ofensiva contra dragón anciano",
+        "Quest": "HR5～",
+        "Effect Description": "Si el objetivo de la misión es un dragón anciano, el ataque de Halk aumentará."
+      }
+    }
   },
   {
     "Book": "Elemental Beam Attack",
     "Quest": "HC",
     "Effect Description": "The Halk gains the ability to fire an elemental beam attack.",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Ataque con rayo elemental",
+        "Quest": "HC",
+        "Effect Description": "El Halk obtiene la capacidad de lanzar un ataque con rayo elemental."
+      }
+    }
   },
   {
     "Book": "Elemental Bite",
     "Quest": "HC",
     "Effect Description": "Halk can perform an aggressive elemental bite attack.",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Mordisco elemental",
+        "Quest": "HC",
+        "Effect Description": "Halk puede realizar un ataque agresivo de mordisco elemental."
+      }
+    }
   },
   {
     "Book": "Empower Attack and Defense",
     "Quest": "HC",
     "Effect Description": "Halk will spend time charging up, increasing attack and defense.",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Potenciar ataque y defensa",
+        "Quest": "HC",
+        "Effect Description": "Halk pasará tiempo cargando energía, aumentando el ataque y la defensa."
+      }
+    }
   },
   {
     "Book": "Fanged Beast Offense",
     "Quest": "HR5～",
     "Effect Description": "If the target of a quest is a Fanged Beast, Halk attack will increase.",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Ofensiva contra bestia de colmillos",
+        "Quest": "HR5～",
+        "Effect Description": "Si el objetivo de la misión es una bestia de colmillos, el ataque de Halk aumentará."
+      }
+    }
   },
   {
     "Book": "Fanged Wyvern Offense",
     "Quest": "HR5～",
     "Effect Description": "If the target of a quest is a Fanged Wyvern, Halk attack will increase.",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Ofensiva contra wyvern de colmillos",
+        "Quest": "HR5～",
+        "Effect Description": "Si el objetivo de la misión es un wyvern de colmillos, el ataque de Halk aumentará."
+      }
+    }
   },
   {
     "Book": "Fast Riser",
     "Quest": "All",
     "Effect Description": "Halk takes less time to recover after being knocked out.",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Recuperación rápida",
+        "Quest": "Todos",
+        "Effect Description": "Halk tarda menos en recuperarse después de quedar inconsciente."
+      }
+    }
   },
   {
     "Book": "Flower Field Offensive",
     "Quest": "HR5～",
     "Effect Description": "Attack increases while in the Flower Field",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Ofensiva del campo de flores",
+        "Quest": "HR5～",
+        "Effect Description": "El ataque aumenta mientras estás en el campo de flores."
+      }
+    }
   },
   {
     "Book": "Flying Wyvern Offense",
     "Quest": "HR5～",
     "Effect Description": "If the target of a quest is a Flying Wyvern, Halk attack will increase.",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Ofensiva contra wyvern volador",
+        "Quest": "HR5～",
+        "Effect Description": "Si el objetivo de la misión es un wyvern volador, el ataque de Halk aumentará."
+      }
+    }
   },
   {
     "Book": "Focus on Claw Attack",
     "Quest": "HR3～",
     "Effect Description": "Halk will focus on attacking with its Claws.",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Enfoque en el ataque con garras",
+        "Quest": "HR3～",
+        "Effect Description": "Halk se enfocará en atacar con sus garras."
+      }
+    }
   },
   {
     "Book": "Forest and Hills Offensive",
     "Quest": "HR3～",
     "Effect Description": "Attack increases while in the Forest and Hills",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Ofensiva de bosque y colinas",
+        "Quest": "HR3～",
+        "Effect Description": "El ataque aumenta mientras estás en el bosque y las colinas."
+      }
+    }
   },
   {
     "Book": "Gathering Affection",
     "Quest": "HC",
     "Effect Description": "Halk will no longer attack but will drop items instead.",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Afecto de recolección",
+        "Quest": "HC",
+        "Effect Description": "Halk ya no atacará, sino que soltará objetos."
+      }
+    }
   },
   {
     "Book": "Gook Luck",
     "Quest": "All",
     "Effect Description": "More likely to find rare gooks during gook quests.",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Suerte de gook",
+        "Quest": "Todos",
+        "Effect Description": "Es más probable encontrar gooks raros durante misiones de gook."
+      }
+    }
   },
   {
     "Book": "Gorge Offensive",
     "Quest": "HR3～",
     "Effect Description": "Attack increases while in the Gorge",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Ofensiva del cañón",
+        "Quest": "HR3～",
+        "Effect Description": "El ataque aumenta mientras estás en el cañón."
+      }
+    }
   },
   {
     "Book": "Great Forest Offensive",
     "Quest": "HR3～",
     "Effect Description": "Attack increases while in the Great Forest",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Ofensiva del gran bosque",
+        "Quest": "HR3～",
+        "Effect Description": "El ataque aumenta mientras estás en el gran bosque."
+      }
+    }
   },
   {
     "Book": "Health Conscious",
     "Quest": "All",
     "Effect Description": "Halk will heal itself if damaged",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Consciente de la salud",
+        "Quest": "Todos",
+        "Effect Description": "Halk se curará a sí mismo si recibe daño."
+      }
+    }
   },
   {
     "Book": "Helper [Antidote]",
     "Quest": "All",
     "Effect Description": "Halk will drop antidote powder on the Hunter if needed. Affects all hunters touched by powder.",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Ayudante [Antidoto]",
+        "Quest": "Todos",
+        "Effect Description": "Halk dejará polvo antidoto sobre el cazador si es necesario. Afecta a todos los cazadores tocados por el polvo."
+      }
+    }
   },
   {
     "Book": "Helper [Deoderant]",
     "Quest": "All",
     "Effect Description": "Halk will drop deoderant on the Hunter if needed. Affects all hunters touched by powder.",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Ayudante [Desodorizante]",
+        "Quest": "Todos",
+        "Effect Description": "Halk dejará desodorizante sobre el cazador si es necesario. Afecta a todos los cazadores tocados por el polvo."
+      }
+    }
   },
   {
     "Book": "Helper [Health]",
     "Quest": "All",
     "Effect Description": "Halk will drop healing powder on the Hunter if needed. Affects all hunters touched by powder.",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Ayudante [Salud]",
+        "Quest": "Todos",
+        "Effect Description": "Halk dejará polvo curativo sobre el cazador si es necesario. Afecta a todos los cazadores tocados por el polvo."
+      }
+    }
   },
   {
     "Book": "Highlands Offensive",
     "Quest": "HR3～",
     "Effect Description": "Attack increases while in the Highlands",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Ofensiva de las tierras altas",
+        "Quest": "HR3～",
+        "Effect Description": "El ataque aumenta mientras estás en las tierras altas."
+      }
+    }
   },
   {
     "Book": "Improve Attack",
     "Quest": "HC",
     "Effect Description": "Halk Attack increases",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Mejorar ataque",
+        "Quest": "HC",
+        "Effect Description": "El ataque de Halk aumenta."
+      }
+    }
   },
   {
     "Book": "Improve Dragon Element",
     "Quest": "HR5～",
     "Effect Description": "Dragon damage is increased.",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Mejorar elemento dragón",
+        "Quest": "HR5～",
+        "Effect Description": "El daño de dragón aumenta."
+      }
+    }
   },
   {
     "Book": "Improve Evasion",
     "Quest": "HC",
     "Effect Description": "The Halk will occassionally dodge attacks that would have otherwise hit it.",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Mejorar evasión",
+        "Quest": "HC",
+        "Effect Description": "Halk esquivará ocasionalmente ataques que de otro modo lo golpearían."
+      }
+    }
   },
   {
     "Book": "Improve Fire Element",
     "Quest": "HR5～",
     "Effect Description": "Fire damage is increased.",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Mejorar elemento fuego",
+        "Quest": "HR5～",
+        "Effect Description": "El daño de fuego aumenta."
+      }
+    }
   },
   {
     "Book": "Improve Ice Element",
     "Quest": "HR5～",
     "Effect Description": "Ice damage is increased.",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Mejorar elemento hielo",
+        "Quest": "HR5～",
+        "Effect Description": "El daño de hielo aumenta."
+      }
+    }
   },
   {
     "Book": "Improve Status Attack",
     "Quest": "HC",
     "Effect Description": "Status damage inflicted is increased.",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Mejorar ataque de estado",
+        "Quest": "HC",
+        "Effect Description": "El daño de estado infligido aumenta."
+      }
+    }
   },
   {
     "Book": "Improve Thunder Element",
     "Quest": "HR5～",
     "Effect Description": "Thunder damage is increased.",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Mejorar elemento trueno",
+        "Quest": "HR5～",
+        "Effect Description": "El daño de trueno aumenta."
+      }
+    }
   },
   {
     "Book": "Improve Water Element",
     "Quest": "HR5～",
     "Effect Description": "Water damage is increased.",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Mejorar elemento agua",
+        "Quest": "HR5～",
+        "Effect Description": "El daño de agua aumenta."
+      }
+    }
   },
   {
     "Book": "Jungle Offensive",
     "Quest": "HR3～",
     "Effect Description": "Attack increases while in the Jungle",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Ofensiva de la selva",
+        "Quest": "HR3～",
+        "Effect Description": "El ataque aumenta mientras estás en la selva."
+      }
+    }
   },
   {
     "Book": "Large Monster Priority",
     "Quest": "All",
     "Effect Description": "Halk will focus on Large Monsters",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Prioridad de monstruos grandes",
+        "Quest": "Todos",
+        "Effect Description": "Halk se enfocará en monstruos grandes."
+      }
+    }
   },
   {
     "Book": "Leviathan Offense",
     "Quest": "HR5～",
     "Effect Description": "If the target of a quest is a Leviathan, Halk attack will increase.",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Ofensiva contra leviatán",
+        "Quest": "HR5～",
+        "Effect Description": "Si el objetivo de la misión es un leviatán, el ataque de Halk aumentará."
+      }
+    }
   },
   {
     "Book": "Lone Offensive",
     "Quest": "HC",
     "Effect Description": "If there is only one party member in the area, Halk attack and defense increase.",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Ofensiva en solitario",
+        "Quest": "HC",
+        "Effect Description": "Si solo hay un miembro del grupo en el área, el ataque y la defensa de Halk aumentan."
+      }
+    }
   },
   {
     "Book": "Long Battle",
     "Quest": "GR",
     "Effect Description": "Halk attack increases over time.",
-    "Aquired?": ""
+    "Aquired?": "",
+    "translations": {
+      "es": {
+        "Book": "Batalla prolongada",
+        "Quest": "GR",
+        "Effect Description": "El ataque de Halk aumenta con el tiempo."
+      }
+    }
   },
   {
     "Book": "Mapper",
     "Quest": "HR2～",
     "Effect Description": "The map will always be visible regardless of having one.",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Mapeador",
+        "Quest": "HR2～",
+        "Effect Description": "El mapa siempre será visible aunque no tengas uno."
+      }
+    }
   },
   {
     "Book": "Monster Spotter",
     "Quest": "HR2～",
     "Effect Description": "The monster will ocassionally be marked on the map as if Psychoserum has been used.",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Buscador de monstruos",
+        "Quest": "HR2～",
+        "Effect Description": "El monstruo ocasionalmente aparecerá marcado en el mapa como si se hubiera usado suero psíquico."
+      }
+    }
   },
   {
     "Book": "Monsters Near Hunter Priority",
     "Quest": "All",
     "Effect Description": "Halk will focus on Monster near the Hunter",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Prioridad a monstruos cerca del cazador",
+        "Quest": "Todos",
+        "Effect Description": "Halk se enfocará en los monstruos cerca del cazador."
+      }
+    }
   },
   {
     "Book": "More Pugi Appearances",
     "Quest": "HR4～",
     "Effect Description": "Pugis will appear more often in quests.",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Más apariciones de pugi",
+        "Quest": "HR4～",
+        "Effect Description": "Los pugis aparecerán con más frecuencia en las misiones."
+      }
+    }
   },
   {
     "Book": "Painted Falls Offensive",
     "Quest": "GR",
     "Effect Description": "Attack increases while in the Painted Falls",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Ofensiva de las cascadas pintadas",
+        "Quest": "GR",
+        "Effect Description": "El ataque aumenta mientras estás en las cascadas pintadas."
+      }
+    }
   },
   {
     "Book": "Party Offensive",
     "Quest": "HC",
     "Effect Description": "If there are four party member in the area, Halk attack and defense increase.",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Ofensiva de grupo",
+        "Quest": "HC",
+        "Effect Description": "Si hay cuatro miembros del grupo en el área, el ataque y la defensa de Halk aumentan."
+      }
+    }
   },
   {
     "Book": "Piscine Offense",
     "Quest": "HR5～",
     "Effect Description": "If the target of a quest is a Piscine, Halk attack will increase.",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Ofensiva contra piscino",
+        "Quest": "HR5～",
+        "Effect Description": "Si el objetivo de la misión es un piscino, el ataque de Halk aumentará."
+      }
+    }
   },
   {
     "Book": "Polar Sea Offensive",
     "Quest": "GR",
     "Effect Description": "Attack increases while in the Polar Sea",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Ofensiva del mar polar",
+        "Quest": "GR",
+        "Effect Description": "El ataque aumenta mientras estás en el mar polar."
+      }
+    }
   },
   {
     "Book": "Rapid Breath Attack",
     "Quest": "HC",
     "Effect Description": "Halk gains the ability to fire a stream of elemental ball attacks.",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Ataque de respiración rápida",
+        "Quest": "HC",
+        "Effect Description": "Halk obtiene la capacidad de lanzar una ráfaga de ataques con bola elemental."
+      }
+    }
   },
   {
     "Book": "Rising Intent",
     "Quest": "All",
     "Effect Description": "When there are 2 carts the attack value of the Halk will increase",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Intención creciente",
+        "Quest": "Todos",
+        "Effect Description": "Cuando hay 2 carros, el valor de ataque de Halk aumenta."
+      }
+    }
   },
   {
     "Book": "Secret Area Affection",
     "Quest": "HC",
     "Effect Description": "You are more likely to spawn in the secret area if a map has one. *POPULAR*",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Afecto de área secreta",
+        "Quest": "HC",
+        "Effect Description": "Es más probable que aparezcas en el área secreta si el mapa tiene una. *POPULAR*."
+      }
+    }
   },
   {
     "Book": "Signal to Stop Attacking",
     "Quest": "All",
     "Effect Description": "Halk will stop attacking if you use the signal function.",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Señal para detener el ataque",
+        "Quest": "Todos",
+        "Effect Description": "Halk dejará de atacar si usas la función de señal."
+      }
+    }
   },
   {
     "Book": "Small Bomber",
     "Quest": "HR5～",
     "Effect Description": "Halk is equipped with Small Barrel Bombs",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Pequeño bombardero",
+        "Quest": "HR5～",
+        "Effect Description": "Halk está equipado con bombas de barril pequeñas."
+      }
+    }
   },
   {
     "Book": "Small Monster Priority",
     "Quest": "All",
     "Effect Description": "Halk Will focus on Small Monsters",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Prioridad a monstruos pequeños",
+        "Quest": "Todos",
+        "Effect Description": "Halk se enfocará en monstruos pequeños."
+      }
+    }
   },
   {
     "Book": "Smash Attack",
     "Quest": "HC",
     "Effect Description": "Halk gains the ability to do a spiralling rush attack.",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Ataque de embestida",
+        "Quest": "HC",
+        "Effect Description": "Halk obtiene la capacidad de realizar un ataque de carga en espiral."
+      }
+    }
   },
   {
     "Book": "Snowy Mountains Offensive",
     "Quest": "HR3～",
     "Effect Description": "Attack increases while in the Snowy Mountains",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Ofensiva de las montañas nevadas",
+        "Quest": "HR3～",
+        "Effect Description": "El ataque aumenta mientras estás en las montañas nevadas."
+      }
+    }
   },
   {
     "Book": "Summer Assault",
     "Quest": "GR",
     "Effect Description": "Halk's Attack and Defense increase while in Hot Areas.",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Asalto de verano",
+        "Quest": "GR",
+        "Effect Description": "El ataque y la defensa de Halk aumentan mientras está en zonas cálidas."
+      }
+    }
   },
   {
     "Book": "Supporter",
     "Quest": "HC",
     "Effect Description": "Halk attempts to break hunter out of any statuses such as Snowman or Crystallisation",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Apoyo",
+        "Quest": "HC",
+        "Effect Description": "Halk intenta sacar al cazador de estados como muñeco de nieve o cristalización."
+      }
+    }
   },
   {
     "Book": "Swamp Offensive",
     "Quest": "HR3～",
     "Effect Description": "Attack increases while in the Swamp",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Ofensiva del pantano",
+        "Quest": "HR3～",
+        "Effect Description": "El ataque aumenta mientras estás en el pantano."
+      }
+    }
   },
   {
     "Book": "Swift Battle",
     "Quest": "GR",
     "Effect Description": "Halk's attack power increases, but decreases as quest time passes.",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Batalla rápida",
+        "Quest": "GR",
+        "Effect Description": "El poder de ataque de Halk aumenta, pero disminuye a medida que pasa el tiempo de la misión."
+      }
+    }
   },
   {
     "Book": "Tidal Island Offensive",
     "Quest": "HR3～",
     "Effect Description": "Attack increases while in the Tidal Island",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Ofensiva de la isla de mareas",
+        "Quest": "HR3～",
+        "Effect Description": "El ataque aumenta mientras estás en la isla de mareas."
+      }
+    }
   },
   {
     "Book": "Tower Offensive",
     "Quest": "HR3～",
     "Effect Description": "Attack increases while in the Tower",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Ofensiva de la torre",
+        "Quest": "HR3～",
+        "Effect Description": "El ataque aumenta mientras estás en la torre."
+      }
+    }
   },
   {
     "Book": "Unescapable",
     "Quest": "All",
     "Effect Description": "Halk will relentlessly attack targets ignoring anything else for a brief time period",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Inescapable",
+        "Quest": "Todos",
+        "Effect Description": "Halk atacará implacablemente a los objetivos ignorando todo lo demás durante un breve período."
+      }
+    }
   },
   {
     "Book": "Unflinching",
     "Quest": "All",
     "Effect Description": "Halk is less likely to be knocked out of the sky when taking damage",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Inquebrantable",
+        "Quest": "Todos",
+        "Effect Description": "Es menos probable que Halk sea derribado del cielo cuando recibe daño."
+      }
+    }
   },
   {
     "Book": "Volcano Offensive",
     "Quest": "HR3～",
     "Effect Description": "Attack increases while in the Volcano",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Ofensiva del volcán",
+        "Quest": "HR3～",
+        "Effect Description": "El ataque aumenta mientras estás en el volcán."
+      }
+    }
   },
   {
     "Book": "White Lake Offensive",
     "Quest": "HR5～",
     "Effect Description": "Attack increases while in the White Lake",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Ofensiva del lago blanco",
+        "Quest": "HR5～",
+        "Effect Description": "El ataque aumenta mientras estás en el lago blanco."
+      }
+    }
   },
   {
     "Book": "Wind Pressure",
     "Quest": "HC",
     "Effect Description": "Halk is no longer affected by Wind Pressure",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Presión del viento",
+        "Quest": "HC",
+        "Effect Description": "Halk ya no se ve afectado por la presión del viento."
+      }
+    }
   },
   {
     "Book": "Winter Assault",
     "Quest": "GR",
     "Effect Description": "Halk's Attack and Defense increase while in Cold Areas.",
-    "Aquired?": "FALSE"
+    "Aquired?": "FALSE",
+    "translations": {
+      "es": {
+        "Book": "Asalto de invierno",
+        "Quest": "GR",
+        "Effect Description": "El ataque y la defensa de Halk aumentan mientras está en zonas frías."
+      }
+    }
   }
 ]
