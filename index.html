@@ -47,7 +47,6 @@
       #skill-list li.checked .item-text {
         text-decoration: line-through;
         color: #777;
-        background: rgb(45, 247, 45);
       }
 
       input[type="checkbox"] {
@@ -128,7 +127,7 @@
       function populateQuestFilter(skills) {
         const quests = [...new Set(skills.map((skill) => skill.Quest).filter(Boolean))].sort();
         const currentValue = questFilter.value;
-        questFilter.innerHTML = '<option value="all">All</option>';
+        questFilter.innerHTML = '<option value="all">Show All</option>';
 
         quests.forEach((quest) => {
           const option = document.createElement("option");
