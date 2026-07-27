@@ -76,12 +76,23 @@
 
     <script>
       const skillList = document.getElementById("skill-list");
+      const storageKey = "halk-skill-checks";
+
+      function getSavedChecks() {
+        const saved = localStorage.getItem(storageKey);
+        return saved ? JSON.parse(saved) : {};
+      }
+
+      function saveChecks(checks) {
+        localStorage.setItem(storageKey, JSON.stringify(checks));
+      }
 
       function renderSkills(skills) {
+        const savedChecks = getSavedChecks();
         skillList.innerHTML = "";
 
         skills.forEach((skill, index) => {
-          const isChecked = String(skill["Aquired?"]).toUpperCase() === "TRUE";
+          const isChecked = Boolean(savedChecks[index]) || String(skill["Aquired?"]).toUpperCase() === "TRUE";
           const item = document.createElement("li");
           item.className = isChecked ? "checked" : "";
 
@@ -95,6 +106,9 @@
 
           const checkbox = item.querySelector("input");
           checkbox.addEventListener("change", (event) => {
+            const checks = getSavedChecks();
+            checks[index] = event.target.checked;
+            saveChecks(checks);
             item.classList.toggle("checked", event.target.checked);
           });
 
