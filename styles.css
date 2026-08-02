@@ -39,7 +39,7 @@ body {
 
       #skill-list li.checked .item-text {
         text-decoration: line-through;
-        color: #777;
+        color: #f4f6fb;
       }
 
       input[type="checkbox"] {
@@ -104,5 +104,5 @@ body {
       }
 
       button:hover {
-        background: #2558c7;
+        background: #1c4294;
       }
