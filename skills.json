@@ -184,13 +184,13 @@
   {
     "Book": "Contain Monster",
     "Quest": "GR",
-    "Effect Description": "It becomes more difficult for monsters to escape areas. *POPULARALT*",
+    "Effect Description": "It becomes more difficult for monsters to escape areas.",
     "Aquired?": "FALSE",
     "translations": {
       "es": {
         "Book": "Contener monstruo",
         "Quest": "GR",
-        "Effect Description": "Se vuelve más difícil que los monstruos escapen de las áreas. *POPULARALT*."
+        "Effect Description": "Se vuelve más difícil que los monstruos escapen de las áreas.."
       }
     }
   },
