@@ -58,7 +58,7 @@ body {
         color: #f4f6fb;
       }
 
-      .meta.checked {
+      .meta li.checked {
         color: #828283;
       }
 
