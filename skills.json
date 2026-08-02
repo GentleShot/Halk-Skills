@@ -197,13 +197,13 @@
   {
     "Book": "Danger Affection",
     "Quest": "HC",
-    "Effect Description": "You are more likely to spawn in the area of a Large Monster. *POPULAR*",
+    "Effect Description": "You are more likely to spawn in the area of a Large Monster.",
     "Aquired?": "FALSE",
     "translations": {
       "es": {
         "Book": "Afecto de peligro",
         "Quest": "HC",
-        "Effect Description": "Es más probable que aparezcas en el área de un gran monstruo. *POPULAR*."
+        "Effect Description": "Es más probable que aparezcas en el área de un gran monstruo.."
       }
     }
   },
@@ -821,13 +821,13 @@
   {
     "Book": "Secret Area Affection",
     "Quest": "HC",
-    "Effect Description": "You are more likely to spawn in the secret area if a map has one. *POPULAR*",
+    "Effect Description": "You are more likely to spawn in the secret area if a map has one.",
     "Aquired?": "FALSE",
     "translations": {
       "es": {
         "Book": "Afecto de área secreta",
         "Quest": "HC",
-        "Effect Description": "Es más probable que aparezcas en el área secreta si el mapa tiene una. *POPULAR*."
+        "Effect Description": "Es más probable que aparezcas en el área secreta si el mapa tiene una.."
       }
     }
   },
