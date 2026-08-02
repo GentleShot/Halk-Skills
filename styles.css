@@ -88,6 +88,15 @@ body {
         background: #2558c7;
       }
 
+      .credit {
+        font-size: 0.85rem;
+        color: #999;
+        text-align: left;
+        margin-top: 2rem;
+      }
+      
+
+
       select,
       button {
         padding: 0.5rem 0.75rem;
