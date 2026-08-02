@@ -39,7 +39,7 @@ body {
 
       #skill-list li.checked .item-text {
         text-decoration: line-through;
-        color: #f4f6fb;
+        color: #828283;
       }
 
       input[type="checkbox"] {
